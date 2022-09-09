@@ -12,3 +12,5 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+./service-chat/chatroom-new/node_modules
+./service-chat/chatroom-old/chatroom/node_modules
